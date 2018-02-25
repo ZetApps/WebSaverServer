@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: at.bestsolution.eclipse:org.eclipse.jdt.annotation:2.0.100">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/at.bestsolution.eclipse/org.eclipse.jdt.annotation/2.0.100/52cce5b7b78b33bb9ba2752f6355305cc809c657/org.eclipse.jdt.annotation-2.0.100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/at.bestsolution.eclipse/org.eclipse.jdt.annotation/2.0.100/e52636a2141e14c070fd23c23785ead66709cb9c/org.eclipse.jdt.annotation-2.0.100-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

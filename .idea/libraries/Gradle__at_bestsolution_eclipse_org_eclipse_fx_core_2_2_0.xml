@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: at.bestsolution.eclipse:org.eclipse.fx.core:2.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/at.bestsolution.eclipse/org.eclipse.fx.core/2.2.0/da250549dc64d7885f524814315766b1e4624071/org.eclipse.fx.core-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/at.bestsolution.eclipse/org.eclipse.fx.core/2.2.0/18765c347fa5e422a934d364c7c02bc647a81fc0/org.eclipse.fx.core-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
